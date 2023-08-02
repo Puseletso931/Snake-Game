@@ -1,3 +1,4 @@
+#Snake-Game
 The game consists of snakes, apples, and zombies, each with specific rules:
 
 Snakes:
